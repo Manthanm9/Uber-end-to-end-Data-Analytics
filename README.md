@@ -1,4 +1,4 @@
-# Uber-end-to-end-Data-Analytics
+# Uber end-to-end Data analytics using GCP
 
 This document outlines a comprehensive data pipeline designed to process and analyze Uber ride data. The pipeline encompasses data loading, transformation, exporting to BigQuery, SQL querying, and creating a Looker dashboard for data visualization.
 
